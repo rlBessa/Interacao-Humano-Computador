@@ -1,4 +1,4 @@
-# interacao-humano-computador
+# Interação Humano-Computador
 Este repositório tem por objetivo auxiliar o desenvolvimento dos conteúdos da disciplina Interação Humano-Computador - Universidade Federalde Goiás. Este componente tem como objetivos gerais:
 
 * Desenvolver a percepção da importância de um projeto de interação adequada e promover a compreensão necessária acerca do processo, do projeto e da avaliação de usabilidade de software.
