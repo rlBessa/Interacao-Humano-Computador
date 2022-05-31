@@ -5,7 +5,7 @@ Este repositório tem por objetivo auxiliar o desenvolvimento dos conteúdos da 
 * Capacitar o aluno a analisar problemas relacionados ao design de interação, a elaborar projetos de interfaces com maior usabilidade e experiência de usuário e a validar abordagens interativas de sistemas computacionais já
 existentes.
 
-##Objetivos Específicos
+## Objetivos Específicos
 
 * Conhecer os conceitos que envolvem os aspectos da interação humano-computador.
 * Aplicar uma metodologia de projeto de interfaces num ambiente real.
